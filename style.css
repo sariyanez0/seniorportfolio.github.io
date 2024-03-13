@@ -1,0 +1,115 @@
+/* html {
+  height: 98%;
+  width: 98%;
+}
+ */
+body{
+  background-color: #65524D;
+  color: #F9F9ED;
+  
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+}  
+h1{
+  margin-top:auto;
+  margin-bottom:auto;
+}
+nav {
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:15px;
+  
+  border: #F9F9ED 1px solid;
+  background-color: #817E9F; 
+  color: #F9F9ED;
+  display: flex;
+  justify-content:space-evenly;;
+  padding:5px;
+  margin: 10px;
+}
+
+a{
+  margin-top:auto;
+  margin-bottom: auto;
+  font-size:18px;
+  padding:auto;
+  text-decoration: none;
+  color: #F9F9ED; 
+}
+
+.box{
+  border: #F9F9ED 1px solid;
+  background-color: #817E9F; 
+  color: #F9F9ED;
+  display: flex;
+  justify-content:space-evenly;;
+  padding:10px;
+  margin: 20px;
+}
+
+.container{
+  margin:10px;
+  padding:10px;
+  border:white 1px solid ;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.pfp{
+  height: auto;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 10px;
+  border: #F9F9ED 1px solid;
+}
+
+.box3{
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  
+  text-align: center;
+  margin:10px;
+  padding:10px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background-color: #817E9F;
+  border: #F9F9ED 1px solid;
+}
+
+.portfolio{
+  margin:10px;
+  padding:10px;
+  border:red 2px solid ;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.head{
+  text-align: center;
+}
+
+section{
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+
+  text-align: center;
+  margin:10px;
+  padding:10px;
+  background-color: #817E9F;
+  border: #F9F9ED 1px solid;
+}
+.frame{
+  text-align: center;
+  margin:auto;
+}
