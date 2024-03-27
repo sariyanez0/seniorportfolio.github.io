@@ -46,14 +46,14 @@ a{
   margin: 20px;
 }
 
-.container{
+/* .container{
   margin:10px;
   padding:10px;
   border:white 1px solid ;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-}
+} */
 
 .pfp{
   height: auto;
@@ -108,4 +108,51 @@ section{
 .frame{
   text-align: center;
   margin:auto;
+}
+
+/* extra for containers*/
+
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #ffd1d1;
+    text-align: center;
+
+} */
+
+#contentjobs{
+  width: 97%;
+  margin: 20px auto;
+  background-color: #fddddd;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px #e0218a;
+}
+
+
+.container {
+    width: 100%;
+    display: flex; /* Use flexbox for layout */
+}
+
+.div {
+    flex: 1; /* Make all divs take equal space within the container */
+    padding: 10px;
+    border: 1px solid #e0218a;
+    margin: 10px;
+}
+
+hr{
+  border: 1px solid #e0218a;
+}
+
+.div img{
+  height: 150px;
+/*   object-fit: cover; */
+}
+
+img.pic{
+  height: 150px;
+/*   object-fit: cover; */
+  border-radius: 100%;
 }
