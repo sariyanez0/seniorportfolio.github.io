@@ -1,1 +1,48 @@
 hi
+
+ <section>
+    <div class="head">
+      <h1>Senior Year Portfolio (2023-2024)</h1>
+      <p>Senior Year Portfolio where I showcase my continuous skills in HTML, CSS, and JavaScript</p>
+    </div>
+    <br>
+    <div class="portfolio">
+      <h4>
+        <div class="container">
+            <a href="https://sariyanez0.github.io/Unit-6-Project/" target="_blank">(jQuery Game) </a>
+  
+            <a href="https://unit-4-project-social-media-page-saribelyanez1.seniorspds-56-fall-2023.repl.co/" target="_blank">(Social Media Page) </a>
+  
+            <a href="https://hire-me-profile-saribelyanez1.seniorspds-56-fall-2023.repl.co/" target="_blank">(Hire Me Profile Page) </a>
+  
+            <a href ="https://sariyanez0.github.io/Unit-Project-Create-a-website-that-uses-loops-to-iterate-over-arrays/"  target="_blank">(Unit Project) </a>
+            <a href="MVP.html" target="_blank">(MVP Project) </a>
+        </div>
+        <div class="container">
+          <a href="https://sariyanez0.github.io/Saribel-Yanez-074-Independent-Practice-append-and-Concatenation/" target="_blank">(Append and Concatenation) </a>
+          <!-- <a href="https://76faac2c-248e-4ca8-bed7-9dd3430a0661-00-3axvd0tfunbny.teams.replit.dev/" target="_blank">(Character Quiz) </a> -->
+          
+          <a href="https://sariyanez0.github.io/saribel-yanez-073-Input-Independent-Practice/" target="_blank">(Input Practice) </a>
+  
+          <a  href="https://sariyanez0.github.io/saribel-yanez-71-Variables-IP-Basketball-Score-Counter/" target="_blank">(Basketball Score Counter) </a>
+          <a href="https://sariyanez0.github.io/065-Independent-Practice-jQuery-Logo-Remix/" target="_blank">(jQuery Logo Remix) </a>
+        </div>
+        <div class="container">
+          <!-- <a href="https://sariyanez0.github.io/065-Independent-Practice-jQuery-Logo-Remix/" target="_blank">(jQuery Logo Remix) </a> -->
+  
+          <a href="https://sariyanez0.github.io/064-jQuery-Actions-w-Arguments-Practice/" target="_blank">(jQuery Actions w/ Arguments Practice) </a>
+  
+          <a href="https://sariyanez0.github.io/Saribel-Yanez-062-jQuery-WhackAMole/" target="_blank">(jQuery Whack-A-Mole)</a>
+          <a href="https://76faac2c-248e-4ca8-bed7-9dd3430a0661-00-3axvd0tfunbny.teams.replit.dev/" target="_blank">(Character Quiz) </a>
+          <a href="  https://sariyanez0.github.io/Saribel-Yanez--82Multiple-Conditions/" target="_blank">(Multiple Conditions) </a>
+        </div>
+        <div class="container">
+          <a href="https://sariyanez0.github.io/83-Compound-Conditionals-Code-Nation-Social-Club/" target="_blank">(Compound Conditionals) </a>
+          <a href="https://sariyanez0.github.io/Saribel-Yanez--Compound-Conditionals83/" target="_blank">(Mealtime Compound Conditionals) </a>
+          <a href="https://sariyanez0.github.io/Saribel-Yanez--81-Basic-Conditionals-Practice/" target="_blank">(Basic Conditionals Practice) </a>
+          <a href="https://sariyanez0.github.io/saribel-yanez-Review-Lesson-Chat-Independent-Practice/" target="_blank">(Chat Practice) </a>
+        </div>
+        
+      </h4>
+    </div>
+  </section>
