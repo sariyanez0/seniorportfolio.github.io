@@ -25,6 +25,7 @@ nav {
   justify-content:space-evenly;;
   padding:5px;
   margin: 10px;
+  border-radius: 5px;
 }
 
 a{
@@ -44,16 +45,9 @@ a{
   justify-content:space-evenly;;
   padding:10px;
   margin: 20px;
+  border-radius: 5px;
 }
 
-/* .container{
-  margin:10px;
-  padding:10px;
-  border:white 1px solid ;
-  display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-} */
 
 .pfp{
   height: auto;
@@ -64,30 +58,7 @@ a{
   border: #F9F9ED 1px solid;
 }
 
-.box3{
-  font-family: "Lugrasimo", cursive;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 15px;
-  
-  text-align: center;
-  margin:10px;
-  padding:10px;
-  display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-  background-color: #817E9F;
-  border: #F9F9ED 1px solid;
-}
 
-.portfolio{
-  margin:10px;
-  padding:10px;
-  border:red 2px solid ;
-  display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-}
 
 .head{
   text-align: center;
@@ -104,30 +75,13 @@ section{
   padding:10px;
   background-color: #817E9F;
   border: #F9F9ED 1px solid;
+  border-radius: 5px;
 }
 .frame{
   text-align: center;
   margin:auto;
 }
 
-/* extra for containers*/
-
-
-/* body {
-    font-family: Arial, sans-serif;
-    background-color: #ffd1d1;
-    text-align: center;
-
-} */
-
-#contentjobs{
-  width: 97%;
-  margin: 20px auto;
-  background-color: #fddddd;
-  padding: 20px;
-  border-radius: 5px;
-  box-shadow: 0px 0px 5px #e0218a;
-}
 
 
 .container {
@@ -138,12 +92,12 @@ section{
 .div {
     flex: 1; /* Make all divs take equal space within the container */
     padding: 10px;
-    border: 1px solid #e0218a;
+    border: 1px solid #65524D;
     margin: 10px;
 }
 
 hr{
-  border: 1px solid #e0218a;
+  border: 1px solid #65524D;
 }
 
 .div img{
@@ -155,4 +109,20 @@ img.pic{
   height: 150px;
 /*   object-fit: cover; */
   border-radius: 100%;
+}
+
+.middle{
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  text-align: center;
+  background-color: #817E9F;
+  border: #F9F9ED 1px solid;
+
+  width: 97%;
+  margin: 20px auto;
+
+  padding: 20px;
+  border-radius: 5px;
 }
