@@ -20,28 +20,28 @@
     <div class="container">
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="CSS Practice"></a>
       <hr>
         <p>CSS Selectors Practice</p>
         <p>Explanation</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Hex Values"></a>
       <hr>
         <p>CSS Unit: Hex Values</p>
         <p>Explain</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="https://popcode.org/?snapshot=100930cc-5a5a-43cf-b901-f272627fd7fb" target="_blank"><img src="#" alt="Google Fonts"></a>
       <hr>
         <p>CSS Unit: External Google Fonts</p>
-        <p>Explain</p>
+        <p>Exploring the different fonts available for all</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="HireMe Project"></a>
       <hr>
         <p>HireMe! Project</p>
         <p>Explain</p>
@@ -52,28 +52,28 @@
     <div class="container">
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Social-Media Page"></a>
       <hr>
         <p>Social-Media Page</p>
         <p>Explanation</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="game"></a>
       <hr>
         <p>jQuery Game</p>
         <p>Explain</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="#game2"></a>
       <hr>
         <p>Adventure Game</p>
         <p>Explain</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Input Fields"></a>
       <hr>
         <p>Input Fields</p>
         <p>Explain</p>
@@ -84,28 +84,28 @@
     <div class="container">
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Packing List"></a>
       <hr>
         <p>College Packing List</p>
         <p>Explanation</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Chat Practice"></a>
       <hr>
         <p>Chat Practice</p>
         <p>Explain</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Character Quiz"></a>
       <hr>
         <p>Character Quiz</p>
         <p>Explain</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Movie List"></a>
       <hr>
         <p>Movie List</p>
         <p>Explain</p>
@@ -116,28 +116,28 @@
     <div class="container">
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="MVP Project"></a>
       <hr>
         <p>MVP Project</p>
         <p>Explanation</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Translate Element"></a>
       <hr>
         <p>Translate Element</p>
         <p>Explain</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="Figma"></a>
       <hr>
         <p>Website Makeover - Figma</p>
         <p>Explain</p>
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="#"></a>
+        <a href="#" target="_blank"><img src="#" alt="GMetrix Exam"></a>
       <hr>
         <p>GMetrix Certification Exam (PDF)</p>
         <p>Explain</p>
