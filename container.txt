@@ -55,14 +55,14 @@
         <a href="#" target="_blank"><img src="#" alt="Social-Media Page"></a>
       <hr>
         <p>Social-Media Page</p>
-        <p>Explanation</p>
+        <p>A social media pages inspired by either your favorite character or person. This focuses mostly on my HTML and CSS skills.</p>
       </div>
 
       <div class="div">
         <a href="#" target="_blank"><img src="#" alt="game"></a>
       <hr>
         <p>jQuery Game</p>
-        <p>Explain</p>
+        <p>When you click on a whack-a-mole it disappears or another appears. You win the game when the whole board is cleared.</p>
       </div>
 
       <div class="div">
