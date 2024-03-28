@@ -44,7 +44,7 @@
         <a href="#" target="_blank"><img src="#" alt="HireMe Project"></a>
       <hr>
         <p>HireMe! Project</p>
-        <p>Explain</p>
+        <p>We had created a hire me page for our classmates to show their soft skills while we show our hard skills in HTML</p>
       </div>
 
     </div>
