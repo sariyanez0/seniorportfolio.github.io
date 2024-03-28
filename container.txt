@@ -1,1 +1,148 @@
+ <div class="middle">
+        <h1>Senior Year Portfolio (2023-2024)</h1>
+        <p>Senior Year Portfolio where I showcase my continous skills in HTML, CSS, and JavaScript</p>
+        <div class="container">
+            <div class="div">
+                <a href="https://sariyanez0.github.io/Unit-Project-Create-a-website-that-uses-loops-to-iterate-over-arrays/"><img src="movielist.png" alt="movielist"></a>
+              <hr>
+                <p>Movie List</p>
+                <p>A Project where you can add and append different movies into a premade list.</p>
+            </div>
+        </div>
+ </div>
 
+@ the idea for the conatiners for the projects (16 boxes)(4x4)
+
+<div class="middle">
+  <h1>Senior Year Portfolio (2023-2024)</h1>
+  <p>Senior Year Portfolio where I showcase my continous skills in HTML, CSS, and JavaScript</p>
+   
+    <div class="container">
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>CSS Selectors Practice</p>
+        <p>Explanation</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>CSS Unit: Hex Values</p>
+        <p>Explain</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>CSS Unit: External Google Fonts</p>
+        <p>Explain</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>HireMe! Project</p>
+        <p>Explain</p>
+      </div>
+
+    </div>
+
+    <div class="container">
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>Social-Media Page</p>
+        <p>Explanation</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>jQuery Game</p>
+        <p>Explain</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>Adventure Game</p>
+        <p>Explain</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>Input Fields</p>
+        <p>Explain</p>
+      </div>
+
+    </div>
+
+    <div class="container">
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>College Packing List</p>
+        <p>Explanation</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>Chat Practice</p>
+        <p>Explain</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>Character Quiz</p>
+        <p>Explain</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>Movie List</p>
+        <p>Explain</p>
+      </div>
+
+    </div>
+
+    <div class="container">
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>MVP Project</p>
+        <p>Explanation</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>Translate Element</p>
+        <p>Explain</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>Website Makeover - Figma</p>
+        <p>Explain</p>
+      </div>
+
+      <div class="div">
+        <a href="#" target="_blank"><img src="#" alt="#"></a>
+      <hr>
+        <p>GMetrix Certification Exam (PDF)</p>
+        <p>Explain</p>
+      </div>
+
+    </div>
+
+</div>
