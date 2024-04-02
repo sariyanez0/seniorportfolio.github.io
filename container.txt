@@ -20,31 +20,31 @@
     <div class="container">
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="CSS Practice"></a>
+        <a href="https://sariyanez0.github.io/css-selectors-practice.github.io/" target="_blank"><img src="#" alt="CSS Practice"></a>
       <hr>
         <p>CSS Selectors Practice</p>
-        <p>Explanation</p>
+        <p>Using our knowledge of CSS Selectors to create a page of three colleges I am interested in.</p>
       </div>
 
       <div class="div">
         <a href="#" target="_blank"><img src="#" alt="Hex Values"></a>
       <hr>
         <p>CSS Unit: Hex Values</p>
-        <p>Explain</p>
+        <p>Mini Project where you create a mosaic of different hex values.</p>
       </div>
 
       <div class="div">
         <a href="https://popcode.org/?snapshot=100930cc-5a5a-43cf-b901-f272627fd7fb" target="_blank"><img src="#" alt="Google Fonts"></a>
       <hr>
         <p>CSS Unit: External Google Fonts</p>
-        <p>Exploring the different fonts available for all</p>
+        <p>Exploring the different fonts available for all.</p>
       </div>
 
       <div class="div">
         <a href="#" target="_blank"><img src="#" alt="HireMe Project"></a>
       <hr>
         <p>HireMe! Project</p>
-        <p>We had created a hire me page for our classmates to show their soft skills while we show our hard skills in HTML</p>
+        <p>We had created a hire me page for our classmates to show their soft skills while we show our hard skills in HTML.</p>
       </div>
 
     </div>
@@ -87,28 +87,28 @@
         <a href="#" target="_blank"><img src="#" alt="Packing List"></a>
       <hr>
         <p>College Packing List</p>
-        <p>Explanation</p>
+        <p>A college packing list using the list and add features in jQuery.</p>
       </div>
 
       <div class="div">
         <a href="#" target="_blank"><img src="#" alt="Chat Practice"></a>
       <hr>
         <p>Chat Practice</p>
-        <p>Explain</p>
+        <p>A conversation between two friends using jQuery</p>
       </div>
 
       <div class="div">
         <a href="#" target="_blank"><img src="#" alt="Character Quiz"></a>
       <hr>
         <p>Character Quiz</p>
-        <p>Explain</p>
+        <p>Take this quiz and find out which Tangled Character you are most.</p>
       </div>
 
       <div class="div">
         <a href="#" target="_blank"><img src="#" alt="Movie List"></a>
       <hr>
         <p>Movie List</p>
-        <p>Explain</p>
+        <p>Adding and removing movies from your own personalized list</p>
       </div>
 
     </div>
@@ -126,21 +126,21 @@
         <a href="#" target="_blank"><img src="#" alt="Translate Element"></a>
       <hr>
         <p>Translate Element</p>
-        <p>Explain</p>
+        <p>Exploring the Translate Element in jQuery.</p>
       </div>
 
       <div class="div">
         <a href="#" target="_blank"><img src="#" alt="Figma"></a>
       <hr>
         <p>Website Makeover - Figma</p>
-        <p>Explain</p>
+        <p>Our interpretation of how we would rebrand our school website using Figma.</p>
       </div>
 
       <div class="div">
         <a href="#" target="_blank"><img src="#" alt="GMetrix Exam"></a>
       <hr>
         <p>GMetrix Certification Exam (PDF)</p>
-        <p>Explain</p>
+        <p>All the information and tools I would need to make sure I pass my certification exam.</p>
       </div>
 
     </div>
