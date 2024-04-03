@@ -27,7 +27,7 @@
       </div>
 
       <div class="div">
-        <a href="#" target="_blank"><img src="#" alt="Hex Values"></a>
+        <a href="https://sariyanez0.github.io/css-unit-hexvalues.github.io/" target="_blank"><img src="#" alt="Hex Values"></a>
       <hr>
         <p>CSS Unit: Hex Values</p>
         <p>Mini Project where you create a mosaic of different hex values.</p>
