@@ -3,20 +3,25 @@ body{
   background-color: #65524D;
   color: #F9F9ED;
   
-  font-family: "Lugrasimo", cursive;
+/*   font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal; */
+  font-size: 15px;
+
+  font-family: "EB Garamond", serif;
+/*   font-optical-sizing: auto; */
   font-weight: 400;
   font-style: normal;
-  font-size: 15px;
 }  
 h1{
   margin-top:auto;
   margin-bottom:auto;
 }
 nav {
-  font-family: "Lugrasimo", cursive;
+/*   font-family: "Lugrasimo", cursive;
   font-weight: 400;
   font-style: normal;
-  font-size:15px;
+  font-size:15px; */
   
   border: #F9F9ED 1px solid;
   background-color: #817E9F; 
@@ -65,9 +70,9 @@ a{
 }
 
 section{
-  font-family: "Lugrasimo", cursive;
+/*   font-family: "Lugrasimo", cursive;
   font-weight: 400;
-  font-style: normal;
+  font-style: normal; */
   font-size: 15px;
 
   text-align: center;
@@ -112,9 +117,9 @@ img.pic{
 }
 
 .middle{
-  font-family: "Lugrasimo", cursive;
+/*   font-family: "Lugrasimo", cursive;
   font-weight: 400;
-  font-style: normal;
+  font-style: normal; */
   font-size: 15px;
   text-align: center;
   background-color: #817E9F;
